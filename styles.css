@@ -38,7 +38,7 @@ a:hover{
 .nav-list a:hover{
   text-decoration:underline;
 }
-contact.img{
+.contact.img{
   width:1rem;
   height:1rem;
 }
@@ -90,7 +90,7 @@ footer{
   .projects-grid{
     grid-template-columns: 1fr;
   }
-  contact.img{
+  .contact.img{
   width:1rem;
   height:1rem;
 }
